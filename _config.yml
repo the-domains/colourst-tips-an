@@ -1,0 +1,28 @@
+name: 'Colourst Tips & Tricks'
+favicon: null
+layout_spectrum: 0.8659141361713409
+typography_spectrum: 0.2865895873401314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1912012887187302
+  lightness: 0.28191004297696054
+  saturation: 0.8200942727271467
+  rhythmicContrast: 0.1851810342632234
+purpose: []
