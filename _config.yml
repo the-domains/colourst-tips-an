@@ -1,7 +1,7 @@
 name: 'Colourst Tips & Tricks'
 favicon: null
-layout_spectrum: 0.8659141361713409
-typography_spectrum: 0.2865895873401314
+layout_spectrum: 0.99583
+typography_spectrum: 0.73205
 title: 'Resolve Colourist Tips & Tricks'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.1912012887187302
+  brandStrength: 0.375
   lightness: 0.28191004297696054
   saturation: 0.8200942727271467
-  rhythmicContrast: 0.1851810342632234
+  rhythmicContrast: 0.5
 purpose: []
